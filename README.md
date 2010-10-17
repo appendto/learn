@@ -1,1 +1,1 @@
-h1. Training for learn.appendTo.com is coming soon.
+# Training for learn.appendTo.com is coming soon.
